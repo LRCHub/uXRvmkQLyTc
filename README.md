@@ -1,0 +1,28 @@
+# The Beatles – Something (Remastered 2009)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:04.49] Something in the way she moves
+[00:12.75] Attracts me like no other lover
+[00:19.44] Something in the way she woos me
+[00:26.71] I don't want to leave her now
+[00:30.53] You know I believe and how
+[00:43.53] 
+[00:38.07] Somewhere in her smile she knows
+[00:45.95] That I don't need no other lover
+[00:52.45] Something in her style that shows me
+[00:59.70] I don't want to leave her now
+[01:03.36] You know I believe and how
+[01:16.36] 
+[01:15.20] You're asking me, will my love grow?
+[01:20.29] I don't know, I don't know
+[01:28.86] You stick around, now it may show
+[01:34.08] I don't know, I don't know
+[01:47.08] 
+[02:13.77] Something in the way she knows
+[02:21.72] And all I have to do is think of her
+[02:28.12] Something in the things she shows me
+[02:35.27] I don't want to leave her now
+[02:39.06] You know I believe and how
+```
