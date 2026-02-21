@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Something (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-21T07:54:50.844225Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Something - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Something_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Something (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Something_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Something - Remastered 2015",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Something_-_Remastered_2015_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "That Would Be Something (Remastered 2011)",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/04_That_Would_Be_Something_(Remastered_2011)_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "That Would Be Something (Remastered)",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/05_That_Would_Be_Something_(Remastered)_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give Me Something - Remastered 2010",
+      "artist": "Yoko Ono",
+      "has_synced": true,
+      "path": "select/06_Give_Me_Something_-_Remastered_2010_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give Me Something (Remastered 2010)",
+      "artist": "Yoko Ono",
+      "has_synced": true,
+      "path": "select/07_Give_Me_Something_(Remastered_2010)_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Something - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Something_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give Me Something (Remastered 2010)",
+      "artist": "Yoko Ono",
+      "has_synced": true,
+      "path": "select/09_Give_Me_Something_(Remastered_2010)_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Something (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Something_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Something (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Something_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Something (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Something_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Something (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Something_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "That Would Be Something - Remastered 2011",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/14_That_Would_Be_Something_-_Remastered_2011_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Something (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/15_Something_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Something (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/16_Something_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Something (Remastered 2009)",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/17_Something_(Remastered_2009)_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Something",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Something_The_Beatles.txt"
+    }
+  ]
+}
